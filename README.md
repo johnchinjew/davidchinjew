@@ -1,2 +1,2 @@
 # davidchinjew
-Photography portfolio
+Photography portfolio: http://davidchinjew.com
