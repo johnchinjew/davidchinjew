@@ -187,6 +187,16 @@ a:active {
   z-index: -1
 }
 
+/*  TEMP TEMP TEMP  */
+
+.img-wrap:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+/*  TEMP TEMP TEMP  */
+
 .foot {
   text-align: right;
   opacity: .5;
